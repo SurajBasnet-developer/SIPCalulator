@@ -32,19 +32,22 @@ const App = () => {
         id="outlined-basic"
         label="Enter Principle"
         variant="outlined"
-      />
+      />{" "}
+      <br />
       <TextField
         onChange={(event) => setT(event.target.value)}
         id="outlined-basic"
         label="Enter Time"
         variant="outlined"
-      />
+      />{" "}
+      <br />
       <TextField
         onChange={(event) => setR(event.target.value)}
         id="outlined-basic"
         label="Enter Rate"
         variant="outlined"
-      />
+      />{" "}
+      <br />
       <br /> <br />
       <Button onClick={() => yourInterest()} variant="contained">
         Calculate
