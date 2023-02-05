@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SIPCalulator/static/css/main.472fada1.css",
+    "main.js": "/SIPCalulator/static/js/main.7bbc9e3a.js",
+    "index.html": "/SIPCalulator/index.html",
+    "main.472fada1.css.map": "/SIPCalulator/static/css/main.472fada1.css.map",
+    "main.7bbc9e3a.js.map": "/SIPCalulator/static/js/main.7bbc9e3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.472fada1.css",
+    "static/js/main.7bbc9e3a.js"
+  ]
+}
